@@ -2,7 +2,8 @@
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sungala%20Eswar%20Aditya%20Reddy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descAlign=50&descSize=16" width="100%"/>
-<!-- Typing SVG -->
+<!-- Typing SVG -->        
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deloitte+Hacksplosion+2026+%7C+Pre-Final+Round+%F0%9F%8F%86;Building+Large+Scalable+Systems+%F0%9F%8C%90;Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
