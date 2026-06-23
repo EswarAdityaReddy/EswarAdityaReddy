@@ -52,7 +52,6 @@ print(me.current_focus())
 ---
 
 ## 🏫 Education & Experience
-
 <table>
   <tr>
     <td width="50%">
@@ -60,10 +59,10 @@ print(me.current_focus())
 ### 🎓 Education
 | Degree | Institution | Score |
 |--------|-------------|-------|
-| B.Tech CSE | SRM University | CGPA 9.11 |
+| B.Tech CSE | SRM University | CGPA 9.24 |
 | BS Data Science | IIT Madras | Pursuing |
 
-    </td>
+</td>
     <td width="50%">
 
 ### 💼 Experience
@@ -72,10 +71,9 @@ print(me.current_focus())
 | Developer Intern | XORSTACK | Internship |
 | AI Compliance Dev | Deloitte | Hackathon |
 
-    </td>
+</td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
