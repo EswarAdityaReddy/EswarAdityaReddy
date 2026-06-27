@@ -10,11 +10,8 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityareddy265/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-adityareddysungala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityareddysungala@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-@eswaraditya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eswaraditya)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://eswaraditya.dev)
 
 <br/>
